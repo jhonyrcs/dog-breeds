@@ -1,0 +1,220 @@
+{
+    "doguinhos": [
+      {
+        "nome": "Afegão Hound",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Longa",
+        "formato_do_focinho": "Dolicocefálico",
+        "origem_geografica": "Afeganistão",
+        "temperamento": "Digno e independente"
+      },
+      {
+        "nome": "Affenpinscher",
+        "tamanho": "Pequeno",
+        "funcao_de_trabalho": "Caça a roedores",
+        "pelagem": "Curta e áspera",
+        "formato_do_focinho": "Braquicefálico",
+        "origem_geografica": "Alemanha",
+        "temperamento": "Curioso e teimoso"
+      },
+      {
+        "nome": "Airedale Terrier",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Caça e companhia",
+        "pelagem": "Dura e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Corajoso e inteligente"
+      },
+      {
+        "nome": "Akita",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Guarda e caça",
+        "pelagem": "Densa e dupla",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Japão",
+        "temperamento": "Leal e corajoso"
+      },
+      {
+        "nome": "American Staffordshire Terrier",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Companhia e guarda",
+        "pelagem": "Curta e lisa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Estados Unidos",
+        "temperamento": "Confiante e afetuoso"
+      },
+      {
+        "nome": "Basenji",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Curta e fina",
+        "formato_do_focinho": "Dolicocefálico",
+        "origem_geografica": "África Central",
+        "temperamento": "Independente e curioso"
+      },
+      {
+        "nome": "Basset Hound",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Curta e lisa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "França",
+        "temperamento": "Gentil e teimoso"
+      },
+      {
+        "nome": "Beagle",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Curta e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Alegre e curioso"
+      },
+      {
+        "nome": "Beagle Harrier",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Curta e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "França",
+        "temperamento": "Vivo e amigável"
+      },
+      {
+        "nome": "Bearded Collie",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Pastoreio",
+        "pelagem": "Longa e áspera",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Vivaz e afetuoso"
+      },
+      {
+        "nome": "Bedlington Terrier",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Encaracolada e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Gentil e corajoso"
+      },
+      {
+        "nome": "Bichon Frisé",
+        "tamanho": "Pequeno",
+        "funcao_de_trabalho": "Companhia",
+        "pelagem": "Longa e encaracolada",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "França",
+        "temperamento": "Alegre e brincalhão"
+      },
+      {
+        "nome": "Bloodhound",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Caça e rastreamento",
+        "pelagem": "Curta e densa",
+        "formato_do_focinho": "Dolicocefálico",
+        "origem_geografica": "França/Bélgica",
+        "temperamento": "Calmo e paciente"
+      },
+      {
+        "nome": "Bobtail",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Pastoreio",
+        "pelagem": "Longa e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Gentil e carinhoso"
+      },
+      {
+        "nome": "Boiadeiro Australiano",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Pastoreio",
+        "pelagem": "Curta e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Austrália",
+        "temperamento": "Energético e inteligente"
+      },
+      {
+        "nome": "Boiadeiro Bernês",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Pastoreio e guarda",
+        "pelagem": "Longa e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Suíça",
+        "temperamento": "Dócil e leal"
+      },
+      {
+        "nome": "Border Collie",
+        "tamanho": "Médio",
+        "funcao_de_trabalho": "Pastoreio",
+        "pelagem": "Média ou longa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Inteligente e energético"
+      },
+      {
+        "nome": "Border Terrier",
+        "tamanho": "Pequeno",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Dura e densa",
+        "formato_do_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Afetuoso e alerta"
+      },
+      {
+        "nome": "Borzoi",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Caça",
+        "pelagem": "Longa e sedosa",
+        "formato_do_focinho": "Dolicocefálico",
+        "origem_geografica": "Rússia",
+        "temperamento": "Digno e independente"
+      },
+      {
+        "nome": "Boston Terrier",
+        "tamanho": "Pequeno",
+        "funcao_de_trabalho": "Companhia",
+        "pelagem": "Curta e lisa",
+        "formato_do_focinho": "Braquicefálico",
+        "origem_geografica": "Estados Unidos",
+        "temperamento": "Amigável e inteligente"
+      },
+      {
+        "nome": "Boxer",
+        "tamanho": "Grande",
+        "funcao_de_trabalho": "Guarda e companhia",
+        "pelagem": "Curta e lisa",
+        "formato_do_focinho": "Braquicefálico",
+        "origem_geografica": "Alemanha",
+        "temperamento": "Leal e energético"
+      },
+      {
+        "nome": "Buldogue Francês",
+        "tamanho": "Pequeno",
+        "funcao_de_trabalho": "Companhia",
+        "pelagem": "Curta e lisa",
+        "formato_do_focinho": "Braquicefálico",
+        "origem_geografica": "França",
+        "temperamento": "Brincalhão e afetuoso"
+      },
+      {
+        "nome": "Buldogue Inglês",
+        "tamanho": "Médio",
+        "funcao_trabalho": "Companhia",
+        "pelagem": "Curta",
+        "formato_focinho": "Braquicefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Gentil"
+      },
+      {
+        "nome": "Bull Terrier",
+        "tamanho": "Médio",
+        "funcao_trabalho": "Companhia",
+        "pelagem": "Curta",
+        "formato_focinho": "Mesocefálico",
+        "origem_geografica": "Reino Unido",
+        "temperamento": "Corajoso"
+      }
+    ]
+}  
